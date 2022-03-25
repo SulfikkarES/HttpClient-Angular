@@ -1,0 +1,58 @@
+{
+  "customerlist":[
+    {
+
+      "id":12,
+      "name":"Sulfy",
+      "age":30,
+       "dob": "10/18/1996",
+        "gender": "Male",
+        "courseFee": 12500
+    },
+
+    {
+      "id":13,
+      "name":"Sumayya",
+      "age":25,
+       "dob": "12/28/1994",
+       "gender": "FEMale",
+        "courseFee": 32500
+      },
+
+    {
+      "id":14,
+      "name":"Naufal",
+      "age":32,
+       "dob": "08/22/1995",
+        "gender": "FEMale",
+         "courseFee": 6500
+        },
+
+        {
+          "id":15,
+          "name":"Sainuuu",
+          "age":30,
+           "dob": "03/16/1993",
+            "gender": "Male",
+             "courseFee": 81400
+        },
+        {
+          "id":16,
+          "aame":"Sample",
+          "age":25,
+          "dob": "02/25/1999",
+           "gender": "Male",
+            "courseFee": 6666
+          },
+
+        {
+          "id":17,
+          "name":"tset",
+          "age":32,
+          "dob": "04/21/1998",
+           "gender": "FEMale",
+           "courseFee": 7500
+          }
+
+  ]
+}
